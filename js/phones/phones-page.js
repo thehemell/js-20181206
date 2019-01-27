@@ -46,6 +46,7 @@ export default class PhonesPage {
     });
   }
 
+
   _render() {
     this._element.innerHTML = `
       <div class="row">
